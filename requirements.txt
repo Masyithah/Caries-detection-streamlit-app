@@ -80,7 +80,7 @@ triton==2.0.0
 typing-extensions==4.7.1
 tzdata==2023.3
 tzlocal==4.3.1
-ultralytics==8.0.173
+ultralytics==8.0.239
 urllib3==2.0.4
 validators==0.22.0
 watchdog==3.0.0
