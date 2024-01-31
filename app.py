@@ -26,9 +26,8 @@ st.set_page_config(
 st.title("Caries Detection using YOLOv8")
 
 model_path_detection = Path(settings.DETECTION_MODEL)
-print(model_path_detection)
-model_path_classification = Path(settings.CLASSIFICATION_MODEL)  # Update with your classification model path
-print(model_path_classification)
+model_path_classification = Path(settings.CLASSIFICATION_MODEL)  
+
 # Load Pre-trained Detection Model
 try:
     model_detection = helper.load_model(model_path_detection)
