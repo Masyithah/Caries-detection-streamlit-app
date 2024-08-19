@@ -25,18 +25,6 @@ This project focuses on the development of a Dental Caries Detection System usin
 ## System Evaluation
 The system has undergone User Acceptance Testing (UAT) to ensure its usability, accuracy, and reliability. Users reported a user-friendly experience with fast prediction times and effective error handling.
 
-## Future Enhancements
-- Incorporate more dental diagnoses, such as fillings and bone levels.
-- Expand the dataset to improve model accuracy and reliability.
-
-## Installation
-1. Clone the repository.
-2. Install dependencies using `pip install -r requirements.txt`.
-3. Run the application using `streamlit run app.py`.
-
-## References
-This project references various academic papers and articles to ensure the accuracy and reliability of the detection system. For more details, refer to the [References](#) section of the documentation.
-
 ## License
 This project is licensed under the MIT License.
 
